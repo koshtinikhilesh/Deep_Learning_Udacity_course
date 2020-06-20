@@ -20,6 +20,11 @@ This repo contains all the jupyter notebook mentioned in the Deep Learning cours
 (4) **Flowers_classification_CNN_Image_Augmentation_Examples.ipynb**
 
    Data Analysis of the Flower classification dataset with the Image Augmentation.
+      
+   
+(5) **NLP_Udacity.ipynb**
+
+   Data Analysis of Natual Language Processing.
     
  
             
